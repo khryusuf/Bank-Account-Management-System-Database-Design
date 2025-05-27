@@ -1,4 +1,4 @@
-# Bank-Account-Management-System-Database-Design
+# Bank Account Management System Database Design
 Bu senaryoda bir banka hesap yönetim sistemi veritabanı tasarlanacaktır. Sistemde **kişi, çalışan, adres, işçi, müşteri, hesap, hesap türü, işlem, işlem türü, şube, kredi ve kredi türü süreçleri** bulunacaktır. 
 
 #### **1. Tabloların Oluşturulması**

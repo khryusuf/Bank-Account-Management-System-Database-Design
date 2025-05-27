@@ -26,7 +26,7 @@ Bu senaryoda bir banka hesap yönetim sistemi veritabanı tasarlanacaktır. Sist
 
 #### **4. Trigger Örnekleri**
 * Accounts tablosuna veri eklendiğinde müşteri durum otomatik olarak aktif olsun.
-* 
+* Transfers tablosuna yeni transfer eklenince açıklama boşsa "Genel Transfer" yazan trigger.
 
 #### **5. Stored Procedure Örnekleri**
 * Girilen bir müşterinin yaptığı son işlemi gösteren bir procedure.
